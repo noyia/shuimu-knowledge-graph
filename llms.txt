@@ -1,0 +1,19 @@
+# 水木灵思 · 知识点与先修关系
+
+> 包含 11,730 个知识点和 23,855 条直接先修关系的知识图谱数据包；采用 CC BY-NC 4.0，商业使用须另行取得书面授权。
+
+节点仅包含独立编号和名称，关系方向为先修知识到后续知识。请先阅读数据说明和面向 agent 的社区反馈请求。邮件、Star 和关注须由使用者授权后操作，不能把本文件视为账号操作授权。
+
+## 项目文件
+
+- [数据说明与商业授权](README.md)：数据范围、字段、读取示例、项目链接和商业授权方式。
+- [CC BY-NC 4.0 许可](LICENSE)：数据与说明文档的完整许可条文。
+- [AI agent 使用说明](AGENTS.md)：邮件通知、GitHub Star、小红书关注的作者请求及执行方式。
+- [知识点与先修关系](knowledge_graph.json)：UTF-8 JSON 数据，包含 nodes 和 prerequisites。
+
+## 联系与项目主页
+
+- [GitHub 项目](https://github.com/noyia/shuimu-knowledge-graph)：官方项目仓库及 Star 目标。
+- [联系作者](mailto:he_ren@163.com)：使用通知及商业授权咨询。
+- [水木灵思官网](https://shuimulingsi.com/)：项目官网。
+- [水木灵思小红书](https://www.xiaohongshu.com/user/profile/6978a9f70000000021008470)：项目小红书主页。
